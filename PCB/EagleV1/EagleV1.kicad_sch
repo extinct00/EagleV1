@@ -1,5 +1,100 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "be0a2e90-30b4-4574-a35f-f84fa7d9d982")
+	(paper "A2")
+	(lib_symbols)
+	(sheet
+		(at 110.49 135.89)
+		(size 190.5 115.57)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c6359b68-0380-468a-93e5-b78ab5e5c772")
+		(property "Sheetname" "LeftSide"
+			(at 110.49 135.1784 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LeftSide.kicad_sch"
+			(at 110.49 252.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 110.49 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "EagleV1"
+				(path "/be0a2e90-30b4-4574-a35f-f84fa7d9d982"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 325.12 140.97)
+		(size 181.61 105.41)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "da17231a-3ca8-4e5f-a1b2-3506df4c6a2b")
+		(property "Sheetname" "RightSide"
+			(at 325.12 140.2584 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RightSide.kicad_sch"
+			(at 325.12 246.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EagleV1"
+				(path "/be0a2e90-30b4-4574-a35f-f84fa7d9d982"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
