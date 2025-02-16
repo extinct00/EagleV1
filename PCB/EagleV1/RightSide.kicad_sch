@@ -13153,7 +13153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GNDB"
 			(at 193.802 108.458 0)
 			(effects
 				(font
@@ -18106,7 +18106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GNDB"
 			(at 171.704 108.204 0)
 			(effects
 				(font
@@ -18381,7 +18381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
+		(property "Value" "+5VB"
 			(at 345.44 20.32 0)
 			(effects
 				(font
@@ -21434,7 +21434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GNDB"
 			(at 339.09 152.4 0)
 			(effects
 				(font
