@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -101,7 +101,7 @@
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
-        "starved_thermal": "error",
+        "starved_thermal": "warning",
         "text_height": "warning",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
@@ -438,7 +438,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -522,6 +522,30 @@
       {
         "netclass": "USBDIFF",
         "pattern": "/LeftSide/USB_DP"
+      },
+      {
+        "netclass": "USBDIFF",
+        "pattern": "D+_B"
+      },
+      {
+        "netclass": "USBDIFF",
+        "pattern": "D-_B"
+      },
+      {
+        "netclass": "USBDIFF",
+        "pattern": "D_N_B"
+      },
+      {
+        "netclass": "USBDIFF",
+        "pattern": "D_P_B"
+      },
+      {
+        "netclass": "USBDIFF",
+        "pattern": "/RightSide/USBB_DP"
+      },
+      {
+        "netclass": "USBDIFF",
+        "pattern": "/RightSide/USBB_DN"
       }
     ]
   },
