@@ -1,11 +1,9 @@
 # EagleV1
-Low-cost split column-staggered ergonomic keyboard
-THIS FILE WAS GENERATED!
 
-# Split Low-Cost and Low-Profile Ergonomic Keyboard
+## Low-cost split column-staggered ergonomic keyboard
+A Corne-like split keyboard with a little bit wider thumb-cluster and more agressive pinky stagger. This keyboard is designed to be compatible with RedDragon LowProfile switches that are widely avaialable on AliExpress for very cheap. They have the same height as
+Khail LP switches (around 12mm) and can be used with classic MX style keycaps, although some might hit the upper housing. Preffered are any keycaps compatible with Numphy keyboards or any 3D printed, either FDM or SLA.
 
-A Corne-like split keyboard with a little bit wider thumb-cluster and more agressive pinky stagger. This keyboard is designed to be compatible with RedDragon LowProfile switches that are widely avaialable on AliExpress for very cheap. They have the samme height as
-Khail LP switches (around 12mm) and can be used with classic MX style keycaps, although some might hit the upper housing. Preffered are any keycaps compatible with Numphy keyboards or any 3D printed, either FDM or SLA. 
 ---
 
 ## Table of Contents
