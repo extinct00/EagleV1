@@ -4,8 +4,8 @@ THIS FILE WAS GENERATED!
 
 # Split Low-Cost and Low-Profile Ergonomic Keyboard
 
-Welcome to the repository for my split low-cost and low-profile ergonomic keyboard project! This project aims to create an affordable, customizable, and ergonomic keyboard that is easy to build and use. Whether you're a seasoned keyboard enthusiast or a beginner, this guide will help you through the process of building your own.
-
+A Corne-like split keyboard with a little bit wider thumb-cluster and more agressive pinky stagger. This keyboard is designed to be compatible with RedDragon LowProfile switches that are widely avaialable on AliExpress for very cheap. They have the samme height as
+Khail LP switches (around 12mm) and can be used with classic MX style keycaps, although some might hit the upper housing. Preffered are any keycaps compatible with Numphy keyboards or any 3D printed, either FDM or SLA. 
 ---
 
 ## Table of Contents
